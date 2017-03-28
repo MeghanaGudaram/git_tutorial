@@ -14,4 +14,7 @@ git log
 git remote add origin
 git remote add origin "https://github.com/url"
 git push origin master
-
+vi file // create a file
+git add file
+git commit -m "Second Commit"
+git push origin master
